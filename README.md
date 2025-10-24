@@ -3,6 +3,7 @@
 - 👀 I’m interested in C++, FOSS, Linux, game dev, and working on small projects.
 - 🌱 I’m currently focused on learning programming through C++. I'm learning from a few textbooks, and am currently almost done working through Bjarne Stroustrup's "Programming: Principles and Practice Using C++" (3rd edition). Next I plan to learn C++ techniques and best practices from "Modern C++ Programming Cookbook" (Marius Bancila) and supplement Bjarne's excellent books (PPP and "A Tour of C++") with "Beginning C++23" by Horton and Weert.
 - 🎮 As of August/September of 2025 I've been working on a project called [PadCast](https://www.github.com/nantr0nic/PadCast) - a lightweight gamepad visualization tool for streamers built with C++.
+- 🎮 Took a break at the end of September and beginning October (family obligations) -- starting to study/practice C++ Game Dev. Looking forward to learning about SFML, SDL, and supporting libraries like Box2D, EnTT, TGUI, etc.
 - 🤝 I’m looking to collaborate on:
   - Beginner-friendly C++ open source projects
   - Cross-platform applications
