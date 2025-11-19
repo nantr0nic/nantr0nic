@@ -9,7 +9,7 @@
   - Cross-platform applications
   - Free Open Source Software
   - Game development tools/utilities
-- 🛠️ Current technologies I'm learning: Cross-compiling C++ on WIN32 and Linux utilizing CMake/Ninja; proper workflow for GitHub repositories (a la GitFlow); optimizing per-frame performance utilizing Visual Studio's performance diagnostics by reducing function calls and cache-ing values properly. 
+- 🛠️ Current technologies I'm learning: SFML, Cross-compiling C++ on WIN32 and Linux utilizing CMake/Ninja; proper workflow for GitHub repositories (a la GitFlow); proper software architecture (learning this through structuring a project in SFML).
 - 📫 How to reach me ... Discord: nantr0nic / Email: andykhazanovsky@gmail.com
 
 <!---
