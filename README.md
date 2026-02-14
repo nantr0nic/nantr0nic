@@ -11,6 +11,7 @@
 - 🎮 In December of 2025, I created a simple game called [Breakdown](https://github.com/nantr0nic/breakdown) using the SFML 3 Game Template. Breakdown was a way to practice using ECS architecture, use a "data-driven" design that loads game configuration data during runtime from TOML files, and extending certain facilities like the config manager, resource manager, an asynchronous logger, and so on. I also got to practice creating GUI elements via an entity factory using EnTT and SFML.
 - 🧵 In January of 2026, I've been [studying concurrency](https://github.com/nantr0nic/cpp-learning/tree/main/concurrency) in C++.
 - 🦀 In January of 2026, I also started working through the Rust book -- thus officially starting my [Rust learning adventure](https://github.com/nantr0nic/rust-learning)!
+- 🎮 In February of 2026, refactoring and improving [SFML 3 Game Template Project](https://github.com/nantr0nic/sfml3-game-template/). Implemented concurrency study from last month in the template's logger. Continuing Rust studies.
 ### Looking to collaborate, reach out!
 - 🤝 I’m looking to collaborate on:
   - C++ open source projects
